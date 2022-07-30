@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "QFN")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/QFN.pretty")(options "")(descr ""))
+  (lib (name "SOT")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/SOT.pretty")(options "")(descr ""))
+  (lib (name "General_SMD")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/General_SMD.pretty")(options "")(descr ""))
+  (lib (name "Connector_PinHeader_2.54mm")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Connector_PinHeader_2.54mm.pretty")(options "")(descr ""))
+  (lib (name "Connector_JST")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Connector_JST.pretty")(options "")(descr ""))
+  (lib (name "Oscillators")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Oscillators.pretty")(options "")(descr ""))
+  (lib (name "Xtal_SMD")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Xtal_SMD.pretty")(options "")(descr ""))
+  (lib (name "Connectors_RF")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Connectors_RF.pretty")(options "")(descr ""))
+)

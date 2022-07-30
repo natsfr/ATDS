@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "MCP73831_2")(type "KiCad")(uri "${CUSTLIB}/Power/Charging/MCP73831_2.kicad_sym")(options "")(descr ""))
+  (lib (name "DSPIC33CK64MC105")(type "KiCad")(uri "${CUSTLIB}/uC/Microchip/DSPIC33/DSPIC33CK64MC105.kicad_sym")(options "")(descr ""))
+  (lib (name "AX5243")(type "KiCad")(uri "${CUSTLIB}/Transceiver/Sug-GHz/AX5243.kicad_sym")(options "")(descr ""))
+  (lib (name "AZ1117")(type "KiCad")(uri "${CUSTLIB}/Power/LDO/AZ1117.kicad_sym")(options "")(descr ""))
+  (lib (name "passives")(type "KiCad")(uri "${CUSTLIB}/Passive/passives.kicad_sym")(options "")(descr ""))
+  (lib (name "xtals")(type "KiCad")(uri "${CUSTLIB}/Oscillator/Xtal/xtals.kicad_sym")(options "")(descr ""))
+  (lib (name "RF_Connectors")(type "KiCad")(uri "${CUSTLIB}/Connectors/RF/RF_Connectors.kicad_sym")(options "")(descr ""))
+)
