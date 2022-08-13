@@ -7,4 +7,7 @@
   (lib (name "Oscillators")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Oscillators.pretty")(options "")(descr ""))
   (lib (name "Xtal_SMD")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Xtal_SMD.pretty")(options "")(descr ""))
   (lib (name "Connectors_RF")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Connectors_RF.pretty")(options "")(descr ""))
+  (lib (name "UBlox")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/UBlox.pretty")(options "")(descr ""))
+  (lib (name "Connector_PinHeader_1.27mm")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Connector_PinHeader_1.27mm.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Holes")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Mounting_Holes.pretty")(options "")(descr ""))
 )
