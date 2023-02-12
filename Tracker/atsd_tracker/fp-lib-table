@@ -10,4 +10,5 @@
   (lib (name "UBlox")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/UBlox.pretty")(options "")(descr ""))
   (lib (name "Connector_PinHeader_1.27mm")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Connector_PinHeader_1.27mm.pretty")(options "")(descr ""))
   (lib (name "Mounting_Holes")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Mounting_Holes.pretty")(options "")(descr ""))
+  (lib (name "testlib")(type "KiCad")(uri "/home/nats/data/Pour_le_stream/kicad-comp/footprints/testlib.pretty")(options "")(descr ""))
 )
